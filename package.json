@@ -1,0 +1,22 @@
+{
+  "name": "server-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadGhayas2/stackoverflow-api-nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MuhammadGhayas2/stackoverflow-api-nodeJS/issues"
+  },
+  "homepage": "https://github.com/MuhammadGhayas2/stackoverflow-api-nodeJS#readme"
+}
